@@ -15,6 +15,7 @@ namespace InvisibleManXRay
         private static readonly Dictionary<string, string> Languages = new Dictionary<string, string>() {
             { "en-US", "English" },
             { "ru-RU", "Русский" },
+            { "uk-UA", "Українська"},
             { "fa-IR", "فارسی" }
         };
 
