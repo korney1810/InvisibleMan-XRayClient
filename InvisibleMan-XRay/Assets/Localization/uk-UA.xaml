@@ -23,18 +23,18 @@
 
     <system:String x:Key="Lang.Window.Main.ManageServerConfiguration">Управління конфігураціями</system:String>
 
-    <system:String x:Key="Lang.Window.About.WindowTitle">О программе</system:String>
-    <system:String x:Key="Lang.Window.About.Title">О ПРОГРАММЕ</system:String>
-    <system:String x:Key="Lang.Window.About.Subtitle">Об Invisible Man XRay</system:String>
-    <system:String x:Key="Lang.Window.About.ApplicationVersion">Версия приложения:</system:String>
-    <system:String x:Key="Lang.Window.About.XrayCoreVersion">Версия Xray-core:</system:String>
-    <system:String x:Key="Lang.Window.About.Description">— это бесплатный клиент с открытым исходным кодом, поддерживающий xray core. Он предоставляет удобный интерфейс для настройки и управления прокси, позволяя пользователям переключаться между различными серверами.</system:String>
-    <system:String x:Key="Lang.Window.About.VisitWebsite">Пожалуйста, посетите сайт, чтобы загрузить последнюю версию или получить помощь.</system:String>
-    <system:String x:Key="Lang.Window.About.SubmitIssuePart1">Если у вас возникли проблемы или вы хотите сообщить об ошибке или предложении, вы можете сообщить об этом в нашем</system:String>
-    <system:String x:Key="Lang.Window.About.SubmitIssuePart2">трекере задач</system:String>
+    <system:String x:Key="Lang.Window.About.WindowTitle">Про програму</system:String>
+    <system:String x:Key="Lang.Window.About.Title">ПРО ПРОГРАМУ</system:String>
+    <system:String x:Key="Lang.Window.About.Subtitle">Про Invisible Man XRay</system:String>
+    <system:String x:Key="Lang.Window.About.ApplicationVersion">Версія застосунку:</system:String>
+    <system:String x:Key="Lang.Window.About.XrayCoreVersion">Версія Xray-core:</system:String>
+    <system:String x:Key="Lang.Window.About.Description">— це безкоштовний клієнт з відкритим вихідним кодом, підтримуючий xray core. Він надає зручний інтерфейс для налаштування і управління проксі, дозволяючи користувачам перемикатися між різними серверами.</system:String>
+    <system:String x:Key="Lang.Window.About.VisitWebsite">Будь ласка, відвідайте сайт, щоб завантажити останню версію або отримати допомогу.</system:String>
+    <system:String x:Key="Lang.Window.About.SubmitIssuePart1">Якщо у вас виникли проблеми або ви хочете повідомити про помилку або пропозицію, ви можете повідомити про це в нашому</system:String>
+    <system:String x:Key="Lang.Window.About.SubmitIssuePart2">трекері завдань</system:String>
     <system:String x:Key="Lang.Window.About.SubmitIssuePart3">.</system:String>
-    <system:String x:Key="Lang.Window.About.ContactUs">Также вы можете связаться с нами по email. Мы постараемся ответить вам как можно скорее!</system:String>
-    <system:String x:Key="Lang.Window.About.Thanks" xml:space="preserve">Спасибо, что используете Invisible Man XRay&#10;Надеемся, вам понравится</system:String>
+    <system:String x:Key="Lang.Window.About.ContactUs">Також ви можете звʼязатися з нами по email. Ми постараємося відповісти вам якнайшвидше!</system:String>
+    <system:String x:Key="Lang.Window.About.Thanks" xml:space="preserve">Дякуємо, що використовуєте Invisible Man XRay&#10;Сподіваємося, вам сподобається</system:String>
 
     <system:String x:Key="Lang.Window.Policy.WindowTitle">Политика</system:String>
     <system:String x:Key="Lang.Window.Policy.Title">ПОЛИТИКА</system:String>
