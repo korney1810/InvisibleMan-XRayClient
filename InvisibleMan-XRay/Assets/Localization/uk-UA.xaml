@@ -12,16 +12,16 @@
     <system:String x:Key="Lang.Status.Running">Підключено</system:String>
     <system:String x:Key="Lang.Status.WaitForRun">Підключення</system:String>
 
-    <system:String x:Key="Lang.Button.Import">Импорт</system:String>
-    <system:String x:Key="Lang.Button.Confirm">Подтвердить</system:String>
-    <system:String x:Key="Lang.Button.Update">Обновить</system:String>
-    <system:String x:Key="Lang.Button.Cancel">Отмена</system:String>
-    <system:String x:Key="Lang.Button.TryAgain">Повторить</system:String>
+    <system:String x:Key="Lang.Button.Import">Імпорт</system:String>
+    <system:String x:Key="Lang.Button.Confirm">Підтвердити</system:String>
+    <system:String x:Key="Lang.Button.Update">Оновити</system:String>
+    <system:String x:Key="Lang.Button.Cancel">Скасування</system:String>
+    <system:String x:Key="Lang.Button.TryAgain">Повторити</system:String>
     <system:String x:Key="Lang.Button.Back">Назад</system:String>
-    <system:String x:Key="Lang.Button.Close">Закрыть</system:String>
-    <system:String x:Key="Lang.Button.ChooseFile">Выбрать файл</system:String>
+    <system:String x:Key="Lang.Button.Close">Закрити</system:String>
+    <system:String x:Key="Lang.Button.ChooseFile">Вибрати файл</system:String>
 
-    <system:String x:Key="Lang.Window.Main.ManageServerConfiguration">Управление конфигурациями</system:String>
+    <system:String x:Key="Lang.Window.Main.ManageServerConfiguration">Управління конфігураціями</system:String>
 
     <system:String x:Key="Lang.Window.About.WindowTitle">О программе</system:String>
     <system:String x:Key="Lang.Window.About.Title">О ПРОГРАММЕ</system:String>
