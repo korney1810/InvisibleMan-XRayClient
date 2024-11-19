@@ -36,26 +36,26 @@
     <system:String x:Key="Lang.Window.About.ContactUs">Також ви можете звʼязатися з нами по email. Ми постараємося відповісти вам якнайшвидше!</system:String>
     <system:String x:Key="Lang.Window.About.Thanks" xml:space="preserve">Дякуємо, що використовуєте Invisible Man XRay&#10;Сподіваємося, вам сподобається</system:String>
 
-    <system:String x:Key="Lang.Window.Policy.WindowTitle">Политика</system:String>
-    <system:String x:Key="Lang.Window.Policy.Title">ПОЛИТИКА</system:String>
-    <system:String x:Key="Lang.Window.Policy.Subtitle">Политика анализа данных</system:String>
+    <system:String x:Key="Lang.Window.Policy.WindowTitle">Політика</system:String>
+    <system:String x:Key="Lang.Window.Policy.Title">ПОЛІТИКА</system:String>
+    <system:String x:Key="Lang.Window.Policy.Subtitle">Політика аналізу даних</system:String>
     <system:String x:Key="Lang.Window.Policy.DescriptionPart1">В</system:String>
     <system:String x:Key="Lang.Window.Policy.DescriptionPart2">Invisible Man</system:String>
-    <system:String x:Key="Lang.Window.Policy.DescriptionPart3">мы стремимся предоставить вам исключительный пользовательский опыт. В рамках наших усилий по постоянному улучшению наших услуг мы используем аналитические данные, чтобы получать представления и принимать обоснованные решения, которые приносят пользу всем нашим пользователям. Эта политика описывает наш подход к анализу данных и нашу приверженность защите вашей конфиденциальности.</system:String>
-    <system:String x:Key="Lang.Window.Policy.PurposeOfAnalyticsTitle">1. Цель аналитики:</system:String>
-    <system:String x:Key="Lang.Window.Policy.PurposeOfAnalyticsDescription">Мы используем аналитику, чтобы лучше понять, как используется наше приложение, выявить области для улучшения и оптимизировать наши функции и возможности. Анализируя поведение пользователей, мы можем улучшить общий пользовательский опыт и адаптировать наше приложение под ваши потребности.</system:String>
-    <system:String x:Key="Lang.Window.Policy.DataCollectionTitle">2. Сбор данных:</system:String>
-    <system:String x:Key="Lang.Window.Policy.DataCollectionDescription">Данные, которые мы собираем, ограничиваются неперсональной, агрегированной информацией. Это означает, что мы не собираем и не обрабатываем личную информацию, которая может прямо идентифицировать вас. Мы уважаем вашу конфиденциальность и стремимся защищать ваши персональные данные.</system:String>
-    <system:String x:Key="Lang.Window.Policy.DataAnonymizationTitle">3. Анонимизация данных:</system:String>
-    <system:String x:Key="Lang.Window.Policy.DataAnonymizationDescription">Чтобы обеспечить вашу конфиденциальность, любые данные, которые мы собираем, анонимизируются и агрегируются. Это означает, что они объединяются с данными других пользователей и не могут быть связаны с конкретным лицом. Будьте уверены, что ваша личность остается полностью анонимной на протяжении всего процесса анализа.</system:String>
-    <system:String x:Key="Lang.Window.Policy.DataSecurityTitle">4. Безопасность данных:</system:String>
-    <system:String x:Key="Lang.Window.Policy.DataSecurityDescription">Мы серьезно относимся к безопасности ваших данных. Мы внедрили современные меры для защиты аналитических данных, которые мы собираем. Наши системы защищены от несанкционированного доступа, использования или раскрытия вашей информации.</system:String>
-    <system:String x:Key="Lang.Window.Policy.ThirdPartyProvidersTitle">5. Сторонние поставщики:</system:String>
-    <system:String x:Key="Lang.Window.Policy.ThirdPartyProvidersDescription">Мы используем Google Analytics в качестве стороннего провайдера аналитики, чтобы помочь нам в сборе и анализе данных. Этот провайдер тщательно выбран и соответствует нашим стандартам конфиденциальности и безопасности.</system:String>
-    <system:String x:Key="Lang.Window.Policy.YourChoicesTitle">6. Ваш выбор:</system:String>
-    <system:String x:Key="Lang.Window.Policy.YourChoicesDescription">Мы уважаем ваше право контролировать ваши данные. Если вы не хотите участвовать в нашей программе аналитики, вы можете отказаться в любое время через настройки приложения. Обратите внимание, что отказ может повлиять на нашу способность улучшать ваш пользовательский опыт.</system:String>
-    <system:String x:Key="Lang.Window.Policy.AcknowledgeAnalyticsUse">Продолжая использовать наше приложение, вы подтверждаете и соглашаетесь с использованием нами аналитических данных в соответствии с этой политикой. Если у вас есть вопросы или опасения по поводу наших практик анализа данных, пожалуйста, свяжитесь с нашей службой поддержки по адресу:</system:String>
-    <system:String x:Key="Lang.Window.Policy.Thanks">Спасибо, что выбрали Invisible Man XRay. Мы ценим ваше доверие и надеемся предоставить вам исключительный пользовательский опыт.</system:String>
+    <system:String x:Key="Lang.Window.Policy.DescriptionPart3">ми прагнемо надати вам винятковий користувальницький досвід. У межах наших зусиль щодо постійного поліпшення наших послуг ми використовуємо аналітичні дані, щоб отримувати уявлення і приймати обґрунтовані рішення, які приносять користь усім нашим користувачам. Ця політика описує наш підхід до аналізу даних і нашу прихильність до захісту вашої конфіденційності.</system:String>
+    <system:String x:Key="Lang.Window.Policy.PurposeOfAnalyticsTitle">1. Мета аналітики:</system:String>
+    <system:String x:Key="Lang.Window.Policy.PurposeOfAnalyticsDescription">Ми використовуємо аналітику, щоб краще зрозуміти, як використовується наш застосунок, виявити області для поліпшення і оптимізувати наші функції і можливості. Аналізуючи поведінку користувачів, ми можемо поліпшити загальний користувальницький досвід і адаптувати наш застосунок під ваші потреби.</system:String>
+    <system:String x:Key="Lang.Window.Policy.DataCollectionTitle">2. Збір даних:</system:String>
+    <system:String x:Key="Lang.Window.Policy.DataCollectionDescription">Дані, які ми збираємо, обмежуються неперсональною, агрегованою інформацією. Це означає, що ми не збираємо і не обробляємо особисту інформацію, яка може прямо ідентифікувати вас. Ми поважаємо вашу конфіденційність і прагнемо захищати ваші персональні дані.</system:String>
+    <system:String x:Key="Lang.Window.Policy.DataAnonymizationTitle">3. Анонімізація даних:</system:String>
+    <system:String x:Key="Lang.Window.Policy.DataAnonymizationDescription">Щоб забезпечити вашу конфіденційність, будь-які дані, які ми збираємо, анонімізуються і агрегуються. Це означає, що вони обʼєднуються з даними інших користувачів і не можуть бути повʼязані з конкретною особою. Будьте певні, що ваша особистість залишається повністю анонімною протягом всього процесу аналізу.</system:String>
+    <system:String x:Key="Lang.Window.Policy.DataSecurityTitle">4. Безпека даних:</system:String>
+    <system:String x:Key="Lang.Window.Policy.DataSecurityDescription">Ми серйозно ставимося до безпеки ваших даних. Ми впровадили сучасні заходи для захисту аналітичних даних, які ми збираємо. Наші системи захищені від несанкціонованого доступу, використання або розкриття вашої інформації.</system:String>
+    <system:String x:Key="Lang.Window.Policy.ThirdPartyProvidersTitle">5. Сторонні постачальники:</system:String>
+    <system:String x:Key="Lang.Window.Policy.ThirdPartyProvidersDescription">Ми використовуємо Google Analytics як сторонній провайдер аналітики, щоб допомогти нам у зборі і аналізі даних. Цей провайдер ретельно обраний і відповідає нашим стандартам конфіденційності і безпеки.</system:String>
+    <system:String x:Key="Lang.Window.Policy.YourChoicesTitle">6. Ваш вибір:</system:String>
+    <system:String x:Key="Lang.Window.Policy.YourChoicesDescription">Ми поважаємо ваше право контролювати ваші дані. Якщо ви не хочете брати участь у нашій програмі аналітики, ви можете відмовитися в будь-який час через налаштування застосунку. Зверніть увагу, що відмова може вплинути на нашу здатність поліпшати ваш користувальницький досвід.</system:String>
+    <system:String x:Key="Lang.Window.Policy.AcknowledgeAnalyticsUse">Продовжуючи використовувати наш застосунок, ви підтверджуєте і погоджуєтесь з використанням нами аналітичних даних відповідно до цієї політики. Якщо у вас є питання або побоювання з приводу наших практик аналізу даних, будь ласка, звʼяжіться з нашою службою підтримки за адресою:</system:String>
+    <system:String x:Key="Lang.Window.Policy.Thanks">Дякуємо, що обрали Invisible Man XRay. Ми цінуємо вашу довіру і сподіваємось надати вам винятковий користувальницький досвід.</system:String>
 
     <system:String x:Key="Lang.Window.Server.WindowTitle">Конфигурации</system:String>
     <system:String x:Key="Lang.Window.Server.Title">КОНФИГУРАЦИИ</system:String>
