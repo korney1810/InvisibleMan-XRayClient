@@ -57,15 +57,15 @@
     <system:String x:Key="Lang.Window.Policy.AcknowledgeAnalyticsUse">Продовжуючи використовувати наш застосунок, ви підтверджуєте і погоджуєтесь з використанням нами аналітичних даних відповідно до цієї політики. Якщо у вас є питання або побоювання з приводу наших практик аналізу даних, будь ласка, звʼяжіться з нашою службою підтримки за адресою:</system:String>
     <system:String x:Key="Lang.Window.Policy.Thanks">Дякуємо, що обрали Invisible Man XRay. Ми цінуємо вашу довіру і сподіваємось надати вам винятковий користувальницький досвід.</system:String>
 
-    <system:String x:Key="Lang.Window.Server.WindowTitle">Конфигурации</system:String>
-    <system:String x:Key="Lang.Window.Server.Title">КОНФИГУРАЦИИ</system:String>
-    <system:String x:Key="Lang.Window.Server.Subtitle">Управление конфигурациями</system:String>
-    <system:String x:Key="Lang.Window.Server.Tab.Configuration">Конфигурация</system:String>
-    <system:String x:Key="Lang.Window.Server.Tab.Subscription">Подписка</system:String>
-    <system:String x:Key="Lang.Window.Server.Import.File">Импортировать файл конфигурации</system:String>
-    <system:String x:Key="Lang.Window.Server.Import.Link">Импортировать по ссылке</system:String>
-    <system:String x:Key="Lang.Window.Server.Import.Remarks">Название подписки</system:String>
-    <system:String x:Key="Lang.Window.Server.Import.SubscriptionLink">Ссылка на подписку</system:String>
+    <system:String x:Key="Lang.Window.Server.WindowTitle">Конфігурації</system:String>
+    <system:String x:Key="Lang.Window.Server.Title">КОНФІГУРАЦІЇ</system:String>
+    <system:String x:Key="Lang.Window.Server.Subtitle">Управління конфігураціями</system:String>
+    <system:String x:Key="Lang.Window.Server.Tab.Configuration">Конфігурація</system:String>
+    <system:String x:Key="Lang.Window.Server.Tab.Subscription">Передплата</system:String>
+    <system:String x:Key="Lang.Window.Server.Import.File">Імпортувати файл конфігурації</system:String>
+    <system:String x:Key="Lang.Window.Server.Import.Link">Імпортувати за посиланням</system:String>
+    <system:String x:Key="Lang.Window.Server.Import.Remarks">Назва передплати</system:String>
+    <system:String x:Key="Lang.Window.Server.Import.SubscriptionLink">Посилання на передплату</system:String>
 
     <system:String x:Key="Lang.Window.Settings.WindowTitle">Настройки</system:String>
     <system:String x:Key="Lang.Window.Settings.Title">НАСТРОЙКИ</system:String>
